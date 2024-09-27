@@ -1,0 +1,20 @@
+# Ignore the working_data folder
+working_data/
+
+# Ignore virtual environments
+.venv/
+__pycache__/
+
+# Ignore build files
+dist/
+build/
+assets/
+
+# Ignore .spec files if they aren't necessary
+*.spec
+
+# Ignore log files or other temporary files
+*.log
+*.html
+*.tif
+*.pdf

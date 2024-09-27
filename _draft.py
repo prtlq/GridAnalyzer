@@ -1,0 +1,6 @@
+                ax.set_xticks(original_xticks)
+                ax.set_yticks(original_yticks)
+                ax.set_zticks(original_zticks)
+                ax.xaxis.set_ticklabels([str(int(tick)) for tick in original_xticks])
+                ax.yaxis.set_ticklabels([str(int(tick)) for tick in original_yticks])
+                ax.zaxis.set_ticklabels([str(int(tick)) for tick in original_zticks])
