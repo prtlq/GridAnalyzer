@@ -2,7 +2,7 @@
 ## How to Use the App
 ---
 
-![alt text](manual.png)
+![alt text](manual.PNG)
 
 ### Left Panel: Data Selection and Range Definition
 
